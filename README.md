@@ -28,12 +28,18 @@ All The Year Round Extra Christmas Number, 1st December 1864 (Volume XII, p573-)
 http://www.djo.org.uk/all-the-year-round/volume-xii/page-573.html
 
 There are more Extra Christmas Numbers. Some are available as ebooks in complete versions, some in versions that contain only the Dickens bits.
+(https://ttu-ir.tdl.org/ttu-ir/browse?type=author&value=Dickens%2C+Charles%2C+1812-1870)
 * 1859 The Haunted House - Dickens contribtions here: http://www.gutenberg.org/ebooks/1289
+  * http://www.djo.org.uk/all-the-year-round/volume-ii/page-569.html
 * 1860 A Message From The Sea - Dickens contributions here: http://www.gutenberg.org/ebooks/1407
+  * http://www.djo.org.uk/all-the-year-round/volume-iv/page-573.html
 * 1861 Tom Tiddler's Ground - Dickens contributions here: http://www.gutenberg.org/ebooks/1413
+  * http://www.djo.org.uk/all-the-year-round/volume-vi/page-573.html
 * 1862 Somebody's Luggage - complete version here: http://www.gutenberg.org/ebooks/1414
 * 1863 Mrs Lirriper's Lodgings (see above)
 * 1864 Mrs Lirriper's Legacy (see above)
 * 1865 Doctor Marigold's Prescriptions - don't know. i guess this will be next.
+  * http://www.djo.org.uk/all-the-year-round/volume-xiv/page-573.html
+  * https://ttu-ir.tdl.org/ttu-ir/bitstream/handle/2346/46625/Christmas1865.pdf?sequence=1&isAllowed=y
 * 1866 Mugby Junction - complete version here: http://www.gutenberg.org/ebooks/27924
 * 1867 No Thoroughfare - complete version here: http://www.gutenberg.org/ebooks/1423
