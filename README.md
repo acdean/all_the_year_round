@@ -20,18 +20,20 @@ So I saved the relevant pages as png files, ran them through tesseract-ocr (whic
 DJO Sources:
 
 All The Year Round Extra Christmas Number, 25th December 1863 (Volume X, p573-)
-DJO - http://www.djo.org.uk/all-the-year-round/volume-x/page-573.html
+
+http://www.djo.org.uk/all-the-year-round/volume-x/page-573.html
 
 All The Year Round Extra Christmas Number, 1st December 1864 (Volume XII, p573-)
+
 http://www.djo.org.uk/all-the-year-round/volume-xii/page-573.html
 
 There are more Extra Christmas Numbers. Some are available as ebooks in complete versions, some in versions that contain only the Dickens bits.
-1859 The Haunted House - Dickens contribtions here: http://www.gutenberg.org/ebooks/1289
-1860 A Message From The Sea - Dickens contributions here: http://www.gutenberg.org/ebooks/1407
-1861 Tom Tiddler's Ground - Dickens contributions here: http://www.gutenberg.org/ebooks/1413
-1862 Somebody's Luggage - complete version here: http://www.gutenberg.org/ebooks/1414
-1863 Mrs Lirriper's Lodgings (see above)
-1864 Mrs Lirriper's Legacy (see above)
-1865 Doctor Marigold's Prescriptions - don't know. i guess this will be next.
-1866 Mugby Junction - complete version here: http://www.gutenberg.org/ebooks/27924
-1867 No Thoroughfare - complete version here: http://www.gutenberg.org/ebooks/1423
+* 1859 The Haunted House - Dickens contribtions here: http://www.gutenberg.org/ebooks/1289
+* 1860 A Message From The Sea - Dickens contributions here: http://www.gutenberg.org/ebooks/1407
+* 1861 Tom Tiddler's Ground - Dickens contributions here: http://www.gutenberg.org/ebooks/1413
+* 1862 Somebody's Luggage - complete version here: http://www.gutenberg.org/ebooks/1414
+* 1863 Mrs Lirriper's Lodgings (see above)
+* 1864 Mrs Lirriper's Legacy (see above)
+* 1865 Doctor Marigold's Prescriptions - don't know. i guess this will be next.
+* 1866 Mugby Junction - complete version here: http://www.gutenberg.org/ebooks/27924
+* 1867 No Thoroughfare - complete version here: http://www.gutenberg.org/ebooks/1423
