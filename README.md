@@ -38,7 +38,7 @@ There are more Extra Christmas Numbers. Some are available as ebooks in complete
 * 1862 Somebody's Luggage - complete version here: http://www.gutenberg.org/ebooks/1414
 * 1863 Mrs Lirriper's Lodgings (see above)
 * 1864 Mrs Lirriper's Legacy (see above)
-* 1865 Doctor Marigold's Prescriptions - don't know. i guess this will be next.
+* 1865 Doctor Marigold's Prescriptions (see above)
   * http://www.djo.org.uk/all-the-year-round/volume-xiv/page-573.html
   * https://ttu-ir.tdl.org/ttu-ir/bitstream/handle/2346/46625/Christmas1865.pdf?sequence=1&isAllowed=y
 * 1866 Mugby Junction - complete version here: http://www.gutenberg.org/ebooks/27924
