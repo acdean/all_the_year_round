@@ -3822,7 +3822,7 @@ at the back. How I should like that one
 for Marie!"
 
 "You may have it for eight francs," replied
-Battisto; we sold two of them yesterday for ten
+Battisto; "we sold two of them yesterday for ten
 each, it represents the tomb of Caius Cestius,
 near Rome."
 
@@ -4305,8 +4305,8 @@ Battisto fell upon his knees, and covered his face
 with his hands. My brother, awe-stricken and
 speechless, leaned against the rock, and felt that
 the object of his journey was but too fatally
-accomplished. As for the guides, they could not con-
-ceive what had happened.
+accomplished. As for the guides, they could not
+conceive what had happened.
 
 "Did you see nothing?" asked my brother and
 Battisto, both together.
@@ -5420,7 +5420,7 @@ time of our leaving the ship, the supercargo had
 not spoken a word to me, nor I to him. I now
 told him to lend a hand in getting the stores out
 of the boat, and in helping me to carry them to
-the first sheltered, place we could find in shore
+the first sheltered place we could find in shore
 on the island. He shook himself up with a
 sulky look at me, and did as I had bidden him.
 We found a little dip or dell in the ground, after
@@ -5595,7 +5595,7 @@ about?" says he. I made answer, "My father,
 and five hundred pound; and how do you come
 to couple them together, I should like to know?"
 "I couldn't have coupled them," says he, in a
-great hurry--" what do I know about it? I
+great hurry--"what do I know about it? I
 don't believe a man like your father ever had
 such a sum of money as that, in all his life."
 "Don't you?" says I, feeling the aggravation of
@@ -5604,7 +5604,7 @@ father had such a sum when he was no older a
 man than I am--and saved it--and left it for a
 provision, in his will, to my mother, who has
 got it now--and, I say again, how came a
-stranger like you to bo talking of it in your
+stranger like you to be talking of it in your
 sleep?" At hearing this, he went about on the
 other tack directly. "Was that all your father
 left, after his debts were paid?" says he. "Are
@@ -5674,7 +5674,7 @@ sank, when I looked at the place where she
 struck, and saw nothing before me but sea and
 sky.
 
-But what was the use of standing and looking,?
+But what was the use of standing and looking?
 It was a deal better to rouse myself by
 doing something. I returned to Mr. Clissold--
 and then and there divided the stores into two
@@ -5970,7 +5970,7 @@ everything else, but no time to burn that leaf.
 Tregarthen came in when he had got the candle
 lit to burn it. There was just time to let it
 drop from under his hand into the great crack
-In the desk, and then he was ordered abroad
+in the desk, and then he was ordered abroad
 by the House, and there was no chance of doing
 more." No! I was to say none of these things
 to Tregarthen. Only this, instead:--"Look in
@@ -6268,7 +6268,7 @@ The air grew hot--a sound came nearer and
 nearer, from above me and behind me, like the
 rush of wind and the roar of water, both together,
 and both far off. I ran out on to the sand,
-and looked back. The inland was on fire!
+and looked back. The island was on fire!
 
 On fire at the point of it opposite to me--on
 fire in one great sheet of flame that stretched
@@ -6625,7 +6625,7 @@ at the clue: "Dringworth Brothers,
 America-square, London City."
 
 The other started again, nodded, and said,
-That was the House."
+"That was the House."
 
 "Now," pursued the captain, "between those
 two men cast away, there arose a mystery
@@ -6778,7 +6778,7 @@ altered. Things alter so fast in these times."
 "You think so," returned the captain, with
 compassion; "but you should come over and
 see me, afore you talk about that. Wa'al, now.
-This desk, this paper this paper, this desk,"
+This desk, this paper--this paper, this desk,"
 said the captain, ruminating and walking about,
 and looking, in his uneasy abstraction, into Mr.
 Pettifer's hat on a table, among other things.
@@ -6914,7 +6914,7 @@ too well used in it, by some who ought to have
 known better. I ask your pardon."
 
 "No you don't, ma'am," said the captain,
-"for I won't let you. Wa'al to be sure! By
+"for I won't let you. Wa'al to be sure!" By
 this time he had taken a chair on the hearth
 between them. "Never felt such an evil spirit in
 the whole course of my life! There! I tell you!
@@ -6939,15 +6939,18 @@ she's a girl, and I sing to her sometimes."
 "What do you sing?" asked Margaret.
 
 "Not a long song, my dear.
-                  Silas Jorgan
-                  Played the organ.
+
+    Silas Jorgan
+    Played the organ.
 
 That's about all. And sometimes I tell her
 stories. Stories of sailors supposed to be lost, and
 recovered after all hope was abandoned." Here
 the captain musingly went back to his song:
-                "Silas Jorgan
-                Played the organ,"
+
+    "Silas Jorgan
+    Played the organ,"
+
 --repeating it with his eyes on the fire, as he
 softly danced the child on his knee. For, he felt
 that Margaret had stopped working.
@@ -6957,8 +6960,9 @@ fire. "I make up stories and tell 'em to that
 child. Stories of shipwreck on desert islands
 and long delay in getting back to civilised lands.
 It is to stories the like of that, mostly, that
-                     Silas Jorgan
-                     Plays the organ."
+
+    Silas Jorgan
+    Plays the organ."
 
 There was no light in the room but the light
 of the fire; for, the shades of night were on the
@@ -6984,8 +6988,9 @@ mother, who was also kneeling.
 
 "What's the matter?" said the captain.
 "What's the matter?
-                    Silas Jorgan
-                    Played the----"
+
+    Silas Jorgan
+    Played the----"
 
 Their looks and tears were too much for him,
 and he could not finish the song, short as it was.
