@@ -1,10 +1,14 @@
 # all_the_year_round
 Text and epub versions of All The Year Round's Christmas Editions:
-- A Haunted House (1859)
-- A Message From The Sea (1860)
-- Mrs Lirriper's Lodgings (1863)
-- Mrs Lirriper's Legacy (1864)
-- Doctor Marigold's Prescriptions (1865). 
+- A Haunted House (1859) - draft
+- A Message From The Sea (1860) - complete
+- Tom Tiddler's Ground (1861) - coming soon - Dickens' contributions here: http://www.gutenberg.org/ebooks/1413
+- Somebody's Luggage (1862) - http://www.gutenberg.org/ebooks/1414
+- Mrs Lirriper's Lodgings (1863) - complete
+- Mrs Lirriper's Legacy (1864) - complete
+- Doctor Marigold's Prescriptions (1865) - draft
+- Mugby Junction (1866) - http://www.gutenberg.org/ebooks/27924
+- No Thoroughfare (1867) - http://www.gutenberg.org/ebooks/1423
 
 Trying recently to find a ebook copy of the Mrs Lirriper stories by Charles Dickens i found that the versions on Project Gutenberg contained ONLY the Dicken's bits and not the other 80%.
 
