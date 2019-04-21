@@ -5,8 +5,6 @@
 <title>Dr. Marigold's Prescriptions</title>
 <subtitle>(All The Year Round Christmas Edition)</subtitle>
 <date>1865</date>
-<option name="part.title_text" value="NONE"/>
-<option name="part.number_style" value="I"/>
 <!--
 TODO Both speaking at once... table?
 -->
@@ -24,9 +22,8 @@ TODO Both speaking at once... table?
 <centre>Price 4d.</centre>
 </prefix>
 
-<part>
-<info title="To Be Taken Immediately."/>
 <chapter>
+<info title="To Be Taken Immediately."/>
 <p>I am a Cheap Jack, and my own father's 
 name was Willum Marigold. It was in his 
 lifetime supposed by some that his name was 
@@ -1132,11 +1129,9 @@ ended. You think Four Pound too much? And
 still you think so? Come! I'll tell you what 
 then. Say Four Pence, and keep the secret.</p>
 </chapter>
-</part>
 
-<part>
-<info title="Not To Be Taken At Bed-Time."/>
 <chapter>
+<info title="Not To Be Taken At Bed-Time."/>
 <p>This is the legend of a house called the Devil's 
 Inn, standing in the heather on the top of the 
 Connemara mountains, in a shallow valley 
@@ -1849,11 +1844,9 @@ standing naked against the sky, no one was
 there, and Coll Dhu and Evleen Blake lay 
 shattered far below.</p>
 </chapter>
-</part>
 
-<part>
-<info title="To Be Taken At The Dinner-Table."/>
 <chapter>
+<info title="To Be Taken At The Dinner-Table."/>
 <p>Does any one know who gives the names to 
 our streets? Does any one know who invents 
 the mottoes which are inserted in the cracker-papers, 
@@ -1956,8 +1949,8 @@ so there was no way of getting at the explanation.
 Determined to conquer, and fearing that 
 one of the symbols might escape my memory, 
 I wrote them down in order. In doing so, an 
-interpretation flashed upon me. A--Pilgrim 
---Age--To--Cripple--Gate. Ah! was it the 
+interpretation flashed upon me. A--Pilgrim--
+Age--To--Cripple--Gate. Ah! was it the 
 right one? Had I triumphed, or had I failed? 
 My anxiety on the subject attained such a 
 pitch at last, that I determined to write to the 
@@ -2021,12 +2014,12 @@ alone is the proprietor of the answer. His
 is a glorious position. He keeps everybody 
 waiting. He wears a calm and placid smile. 
 He has the rest at his mercy. He is happy--
---innocently happy.</p>
+innocently happy.</p>
 <p>But who makes the Riddles?</p>
-<p>I DO.</p>
+<p>I <sc>DO</sc>.</p>
 <p>Am I going to let out a great mystery? 
 Am I going to initiate the uninitiated? Am I 
-going to let the world know <em>how it is done</em>?</p>
+going to let the world know <em>how it is done?</em></p>
 <p>Yes. I am.</p>
 <p>It is done in the main by the Dictionary; but 
 the consultation of that work of reference, with 
@@ -2174,8 +2167,8 @@ respectfully eager for this peculiar kind of
 literature. The conundrum or the rebus will 
 knock about the office for a long time, and, perhaps, 
 only get inserted at last because it fits a 
-vacant space. When we are inserted, we always 
---always mind--occupy an ignoble place. We 
+vacant space. When we are inserted, we always--
+always mind--occupy an ignoble place. We 
 come in at the bottom of a column, or occupy 
 the very last lines of the periodical in which we 
 appear--in company with that inevitable game 
@@ -2360,8 +2353,8 @@ little income from Mr. Scrooper, when one
 morning I was again surprised by a visit from 
 a total stranger--again, as on a former occasion, 
 a middle-aged gentleman--again an individual 
-with a twinkling eye and a humorous mouth 
---again a diner-out, with two surnames--Mr. 
+with a twinkling eye and a humorous mouth--
+again a diner-out, with two surnames--Mr. 
 Kerby Postlethwaite I will call him, which is 
 sailing as near the wind as I consider safe.</p>
 <p>Mr. Kerby Postlethwaite came on the errand 
@@ -2610,11 +2603,9 @@ It appeared. It took. It puzzled the public.
 But for the life of me I cannot form the remotest 
 idea what it meant, and I am ruined.</p>
 </chapter>
-</part>
 
-<part>
-<info title="Not To Be Taken For Granted."/>
 <chapter>
+<info title="Not To Be Taken For Granted."/>
 <p>To-day I, Eunice Fielding, have been looking 
 over the journal which I kept of the first few 
 weeks of my life in the world, after I left the 
@@ -3513,11 +3504,9 @@ within it, so also I have found some good men
 without it.</p>
 <p>Gabriel is not one of the Brethren.</p>
 </chapter>
-</part>
 
-<part>
-<info title="To Be Taken In Water."/>
 <chapter>
+<info title="To Be Taken In Water."/>
 <p>Minnie, my blessed little wife, and I, had 
 been just one month married. We had returned 
 only two days from our honeymoon tour at 
@@ -3581,8 +3570,8 @@ we, Goldrick?"</p>
 <p>"Very anxious," said the little neat head 
 clerk. "Very anxious."</p>
 <p>Mr. Schwarzmoor was a full faced man of about 
-sixty, with thick white eyebrows and a red face 
---a combination which gave him an expression 
+sixty, with thick white eyebrows and a red face--
+a combination which gave him an expression 
 of choleric old age. He was a shrewd severe 
 man of business: a little impetuous and fond of 
 rule, but polite, kind, and considerate.</p>
@@ -3791,8 +3780,8 @@ and called for champagne.</p>
 <p>"Yes! yes!" the leader said. "You must 
 have some, old fellow. We have won three games, 
 you know, and you held such cards, too. Come 
-along, look alive, you fellow with the nightcap 
---Cliquot--gilt top, you duffer. You shall have 
+along, look alive, you fellow with the nightcap--
+Cliquot--gilt top, you duffer. You shall have 
 your revenge before we get to Lyons, old chap."</p>
 <p>Levison chattered good humouredly about 
 the last game, and took the wine. In a few 
@@ -3825,8 +3814,8 @@ the luggage. We can be very cozy together.
 More champagne here. What's bottle in 
 French? Most shameful thing! Those French 
 friends of Julia's were gone off to Biarritz, 
-pretending to have forgotten that we were coming 
---after six weeks with us in London, too! 
+pretending to have forgotten that we were coming--
+after six weeks with us in London, too! 
 Precious shabby, not to put too fine a point upon it. 
 By Jove, sir, there's the bell. We'll all go in the 
 same carriage. They will not bring that champagne."</p>
@@ -4285,8 +4274,8 @@ time against this sort of rogue. Well; his name
 is off the books; that's one good thing. Come, 
 comrades, bring that body to land. We must 
 strip him of the money he has upon him, which at 
-least did one good thing while in his possession 
---it sent the scoundrel to the bottom."</p>
+least did one good thing while in his possession--
+it sent the scoundrel to the bottom."</p>
 <p>Even in death, the long face looked craftily 
 respectable when we turned it to the lamp-light.</p>
 <p>Arnott told me all, in his jovial way, on my 
@@ -4319,11 +4308,9 @@ on very profitable terms. Our house has flourished
 ever since, and Minnie and I have flourished 
 likewise--and increased.</p>
 </chapter>
-</part>
 
-<part>
-<info title="To Be Taken With A Grain Of Salt."/>
 <chapter>
+<info title="To Be Taken With A Grain Of Salt."/>
 <p>I have always noticed a prevalent want 
 of courage, even among persons of superior 
 intelligence and culture, as to imparting their 
@@ -4539,8 +4526,8 @@ and my servant. It was a summons to me to
 serve upon a Jury at the forthcoming Sessions 
 of the Central Criminal Court at the Old Bailey. 
 I had never before been summoned on such a 
-Jury, as John Derrick well knew. He believed 
---I am not certain at this hour whether with 
+Jury, as John Derrick well knew. He believed--
+I am not certain at this hour whether with 
 reason or otherwise--that that class of Jurors 
 were customarily chosen on a lower qualification 
 than mine, and he had at first refused to 
@@ -4637,8 +4624,8 @@ the request, but turned his head and counted.
 but no, it's not possible. No. We are twelve."</p>
 <p>According to my counting that day, we were 
 always right in detail, but in the gross we were 
-always one too many. There was no appearance 
---no figure--to account for it; but I had 
+always one too many. There was no appearance--
+no figure--to account for it; but I had 
 now an inward foreshadowing of the figure that 
 was surely coming.</p>
 <p>The Jury were housed at the London Tavern. 
@@ -4893,11 +4880,9 @@ never let me off, because, before I was taken, he
 somehow got to my bedside in the night, woke me, 
 and put a rope round my neck.</em>"</p>
 </chapter>
-</part>
 
-<part>
-<info title="To Be Taken And Tried."/>
 <chapter>
+<info title="To Be Taken And Tried."/>
 <p>There can hardly be seen anywhere, a prettier 
 village than Cumner, standing on the brow of a 
 hill which commands one of the finest views in 
@@ -4967,8 +4952,8 @@ stalwart good-looking young fellow of some
 six-and-twenty, who worked for that gentleman 
 under his father, and was in the receipt of 
 liberal wages. Honest, steady, and fond of 
-self-cultivation, he was capable, if not clever 
---persevering, if not rapid--an excellent 
+self-cultivation, he was capable, if not clever--
+persevering, if not rapid--an excellent 
 specimen of an honest English peasant. But 
 he had certain peculiarities of disposition and 
 temper, which served to render him 
@@ -5149,8 +5134,8 @@ impressive, repeated once more, "<em>I would indeed!</em>
 But ye'd not be happy with Geoffrey Gibbs. 
 Ye'd be miserable--ill-used, perhaps. He ain't 
 a man to make any woman happy--I'm as sure 
-o' that, as that I stand here. He's bad at heart 
---downright cruel. And I!--what I promise, 
+o' that, as that I stand here. He's bad at heart--
+downright cruel. And I!--what I promise, 
 I'll act up to--O! steady. I'll work for you, 
 and slave for you, and--and love you true!"</p>
 <p>He drew her towards him as he spoke, and 
@@ -5257,8 +5242,8 @@ don't ask you to forgive me. I know you can't.
 But I do ask you to refrain from vengeance. It 
 can't bring back the past. Oh, George! if ever 
 you cared for me, listen to what I entreat now. 
-Hate and despise me--I don't expect no other 
---but don't you revenge my ill conduct on 
+Hate and despise me--I don't expect no other--
+but don't you revenge my ill conduct on 
 anyone. Forget all about me--that's the best 
 thing for both of us. It would have been better 
 if we had never beheld one another."</p>
@@ -5804,8 +5789,8 @@ civility, as though he felt himself unworthy of
 their notice; unremitting in his devotion to his 
 parents; working hard all the day; sometimes 
 puzzling over a book at night; never alluding 
-to the past--never forgetting it; melancholy 
---more melancholy than ever; but no longer 
+to the past--never forgetting it; melancholy--
+more melancholy than ever; but no longer 
 bitter nor resentful. Such had George Eade 
 become; and when men saw him at a distance, 
 they followed him with their eyes, and asked 
@@ -6062,11 +6047,9 @@ or to tea, stalwart, handsome, with a bright
 cheery look on his honest English face, that will 
 do you good to look upon.</p>
 </chapter>
-</part>
 
-<part>
-<info title="To Be Taken For Life."/>
 <chapter>
+<info title="To Be Taken For Life."/>
 <p>Sophy read through the whole of the foregoing 
 several times over, and I sat in my seat in the 
 Library Cart (that's the name we give it) seeing 
@@ -6377,5 +6360,4 @@ signs that I had first taught her mother, the
 happy and yet pitying tears fell rolling down my 
 face.</p>
 </chapter>
-</part>
 </book>
