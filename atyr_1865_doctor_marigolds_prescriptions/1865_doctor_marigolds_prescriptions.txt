@@ -6705,7 +6705,7 @@ Such was the tale, told in broken whispers in
 the dead of night, to the clergyman, by that
 miserable man: a tale impossible to doubt, and
 triumphantly proving the innocence of one who
-had been too Iong suspected. Before twelve
+had been too long suspected. Before twelve
 o'clock next day, the whole village was ringing
 with the news of Williams's confession, which
 spread like wildfire.
@@ -7117,3 +7117,5 @@ quick and eager and busy, to her mother, in the
 signs that I had first taught her mother, the
 happy and yet pitying tears fell rolling down my
 face.
+
+THE END
