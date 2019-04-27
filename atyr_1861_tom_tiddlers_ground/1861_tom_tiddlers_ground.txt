@@ -26,7 +26,7 @@ PICKING UP SOOT AND CINDERS.
 the Traveller.
 
 "Because he scatters halfpence to Tramps
-and such-like," returned the Landlord," and of
+and such-like," returned the Landlord, "and of
 course they pick 'em up. And this being
 done on his own land (which it is his own land, you
 observe, and were his family's before him), why it
@@ -234,7 +234,7 @@ seven years, twelve, twenty, thirty--though
 twenty, on the whole, appeared the favourite
 term.
 
-"Well, well!" said Mr. Traveller." At any
+"Well, well!" said Mr. Traveller. "At any
 rate, let us see what a real live Hermit looks
 like."
 
@@ -758,7 +758,7 @@ this gentleman, "of a man shutting himself up
 in the way you're doing. I know the temptation
 to it myself, have experienced it myself,
 and yielded to it myself; but I never knew any
-good--stop, though,"he added, correcting
+good--stop, though," he added, correcting
 himself as a scrupulous man does, who will not
 accept the help of the smallest false statement
 to aid his dearest theory--"I do remember one
@@ -934,7 +934,7 @@ lives, and to make her husband's life of toil--
 if he can keep it up--not only bearable but
 delightful.
 
-IF he can keep it up--but can he? His
+I<sc>f</sc> he can keep it up--but can he? His
 shadow is all that I have seen of him, but it
 looks like the shadow of one in delicate health.
 I never miss him from his place at night, and I
@@ -1008,7 +1008,7 @@ comfort in his most inscrutable face. Of course I
 have not watched this gentleman's proceedings
 long, without coming to the conclusion that it is
 Mr. Cordial, the parish doctor, whose surgery in
-Great Pulteney-street I am so often in. the habit
+Great Pulteney-street I am so often in the habit
 of passing.
 
 If there had been any previous doubt on my
@@ -1338,7 +1338,7 @@ behind the blind before long, which will give
 you an opportunity of testing the accuracy of
 what I have said."
 
-"Well, without doubting that at all, "replied
+"Well, without doubting that at all," replied
 my guest, "I really think I should."
 
 Mr. Pycroft was sitting near the window, but
@@ -2338,7 +2338,7 @@ for a term of years. What are you in for?"
 
 He shrugged his shoulders contemptuously.
 
-"Devil's mass! "Then you're a gentleman-
+"Devil's mass! Then you're a gentleman-
 convict, I suppose! Pity you've not a berth to
 yourselves--we poor forçats hate such fine
 company."
@@ -2404,7 +2404,7 @@ quarrying, mining, pumping in the docks, lading
 and unlading vessels, transporting ammunition,
 and so forth. Gasparo and I were employed
 with about two hundred other convicts in a
-quarry a little beyond the port. Day after day
+quarry a little beyond the port. Day after day,
 week after week, from seven in the morning
 until seven at night, the rocks echoed with our
 blows. At every blow, our chains rang and
