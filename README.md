@@ -2,13 +2,15 @@
 Text and epub versions of All The Year Round's Christmas Editions:
 - A Haunted House (1859) - draft
 - A Message From The Sea (1860) - complete
-- Tom Tiddler's Ground (1861) - draft
-- Somebody's Luggage (1862) - http://www.gutenberg.org/ebooks/1414
+- Tom Tiddler's Ground (1861) - complete
+- Somebody's Luggage (1862) - soon
 - Mrs Lirriper's Lodgings (1863) - complete
 - Mrs Lirriper's Legacy (1864) - complete
 - Doctor Marigold's Prescriptions (1865) - complete
 - Mugby Junction (1866) - http://www.gutenberg.org/ebooks/27924
 - No Thoroughfare (1867) - http://www.gutenberg.org/ebooks/1423
+
+("draft" generally means that i've done the conversion to epub but haven't read it and corrected the errors)
 
 Trying recently to find a ebook copy of the Mrs Lirriper stories by Charles Dickens i found that the versions on Project Gutenberg contained ONLY the Dicken's bits and not the other 80%.
 
@@ -39,12 +41,15 @@ http://www.djo.org.uk/all-the-year-round/volume-xii/page-573.html
 There are more Extra Christmas Numbers. Some are available as ebooks in complete versions, some in versions that contain only the Dickens bits.
 (https://ttu-ir.tdl.org/ttu-ir/browse?type=author&value=Dickens%2C+Charles%2C+1812-1870)
 * 1859 The Haunted House (see above)
-  * Dickens contribtions here: http://www.gutenberg.org/ebooks/1289
+  * Dickens contributions here: http://www.gutenberg.org/ebooks/1289
   * http://www.djo.org.uk/all-the-year-round/volume-ii/page-569.html
 * 1860 A Message From The Sea (see above)
-* 1861 Tom Tiddler's Ground - Dickens contributions here: http://www.gutenberg.org/ebooks/1413
+* 1861 Tom Tiddler's Ground (see above)
+  * Dickens contributions here: http://www.gutenberg.org/ebooks/1413
   * http://www.djo.org.uk/all-the-year-round/volume-vi/page-573.html
-* 1862 Somebody's Luggage - complete version here: http://www.gutenberg.org/ebooks/1414
+* 1862 Somebody's Luggage 
+  * Dickens contributions here: http://www.gutenberg.org/ebooks/1414
+  * http://www.djo.org.uk/all-the-year-round/volume-viii/page-573.html
 * 1863 Mrs Lirriper's Lodgings (see above)
 * 1864 Mrs Lirriper's Legacy (see above)
 * 1865 Doctor Marigold's Prescriptions (see above)
