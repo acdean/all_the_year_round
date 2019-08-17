@@ -7,7 +7,7 @@ Text and epub versions of All The Year Round's Christmas Editions:
 - Mrs Lirriper's Lodgings (1863) - complete
 - Mrs Lirriper's Legacy (1864) - complete
 - Doctor Marigold's Prescriptions (1865) - complete
-- Mugby Junction (1866) - draft
+- Mugby Junction (1866) - draft - two pages missing
 - No Thoroughfare (1867) - draft
 
 ("draft" generally means that i've done the conversion to epub but haven't read it to check)
