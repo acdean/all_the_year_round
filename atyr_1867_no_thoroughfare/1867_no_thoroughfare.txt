@@ -177,7 +177,6 @@ man I am going to be married to) lies ill, and I
 help his mother and sister to watch him. Don't
 take on so, don't take on so!"
 
-
 "O good Sally, dear Sally," moans the lady,
 catching at, her dress entreatingly. "As you are
 hopeful and I am hopeless; as a fair way in life
@@ -185,7 +184,7 @@ is before you, which can never, never, be before
 me; as you can aspire to become a respected
 wife, and as you can aspire to become a proud
 mother; as you are a living loving woman, and
-must die; for GOD'S sake hear my distracted
+must die; for GOD's sake hear my distracted
 petition!"
 
 "Deary, deary, deary ME!" cries Sally, her
@@ -243,6 +242,7 @@ The lady lays her face upon the nurse's
 breast, draws her close in her embrace with
 both arms, murmurs a blessing and the words,
 "Kiss him for me!" and is gone.
+
 
 Day of the month and year, the first Sunday
 in October, one thousand eight hundred and
@@ -324,7 +324,7 @@ attendant's hand. Pause and silence.
 
 "I am going to pass round the tables," says
 the lady's interlocutor, without seeming to
-address her." Follow me with your eyes.
+address her. "Follow me with your eyes.
 The boy that I stop at and speak to, will not
 matter to you. But the boy that I touch, will
 be Walter Wilding. Say nothing more to me,
@@ -650,7 +650,7 @@ yet."
 in my head came on at where, Mr. Bintrey?"
 
 "At roast, and boiled, and beer," answered
-the lawyer, prompting--" lodging under the
+the lawyer, prompting--"lodging under the
 same roof--and one and all--"
 
 "Ah! And one and all singing in the head
@@ -1480,7 +1480,7 @@ Mr. Wilding's immovable honesty saw the
 fallacy in his housekeeper's point of view at a
 glance.
 
-"You don't understand me," he said."It's
+"You don't understand me," he said. "It's
 because I loved her that I feel it a duty--a
 sacred duty to do justice to her son. If he is
 a living man, I must find him: for my own sake,
@@ -1504,8 +1504,8 @@ house--I can't talk about it now."
 The door opened as Mrs. Goldstraw advanced
 towards it; and Mr. Jarvis appeared.
 
-"Send for Mr. Bintrey," said the wine-merchant."
-Say I want to see him directly."
+"Send for Mr. Bintrey," said the wine-merchant.
+"Say I want to see him directly."
 
 The clerk unconsciously suspended the
 execution of the order, by announcing "Mr. Vendale,"
@@ -2329,7 +2329,7 @@ George?"
 "Regularly. I hope you don't object,
 Joey?"
 
-"/ don't, bless you. But Wapours objects
+"I don't, bless you. But Wapours objects
 that you're too young. You're both on you
 too young."
 
@@ -2351,11 +2351,11 @@ George," he resumed, straightening his back
 once more, "is, that Young Master Wilding
 has gone and changed the luck. Mark my
 words. He has changed the luck, and he'll
-find it out. / ain't been down here all my life
+find it out. I ain't been down here all my life
 for nothing! I know by what I notices down
 here, when it's a-going to rain, when it's a-going
 to hold up, when it's a-going to blow, when it's
-a-going to be calm. / know, by what I notices
+a-going to be calm. I know, by what I notices
 down here, when the luck's changed, quite as
 well."
 
@@ -2414,7 +2414,7 @@ What then?"
 
 "Master George, they do say--"
 
-"Who?" .
+"Who?"
 
 "How should I know who?" rejoined the
 Cellarman, apparently much exasperated by the
@@ -2749,9 +2749,9 @@ would you have any hesitation or objection to
 become my joint trustees and executors, or can
 you at once consent?"
 
-"/ consent," replied George Vendale, readily.
+"I consent," replied George Vendale, readily.
 
-"/ consent," said Bintrey, not so readily.
+"I consent," said Bintrey, not so readily.
 
 "Thank you both. Mr. Bintrey, my instructions
 for my last will and testament are short
