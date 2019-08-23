@@ -1,5 +1,6 @@
 # all_the_year_round
 Text and epub versions of All The Year Round's Christmas Editions:
+
 - A Haunted House (1859) - corrected
 - A Message From The Sea (1860) - complete
 - Tom Tiddler's Ground (1861) - complete
@@ -8,7 +9,7 @@ Text and epub versions of All The Year Round's Christmas Editions:
 - Mrs Lirriper's Legacy (1864) - complete
 - Doctor Marigold's Prescriptions (1865) - complete
 - Mugby Junction (1866) - corrected
-- No Thoroughfare (1867) - draft
+- No Thoroughfare (1867) - corrected
 
 ("draft" generally means that i've done the conversion to epub but haven't read it to check.
 "corrected" means i've read it and done all the corrections but haven't checked the paragraphs or italics)
@@ -20,5 +21,7 @@ The same is true of a lot of the other Christmas editions of All The Year Round 
 Everything got converted to lowest common denomiator .txt format, then marked up as xml and then converted to simple epubs using my own acdepub2 code. Finally i generated generic covers using svg templates and Gimp.
 
 next up, Household Words, 1851-1858...
+
+- The Seven Poor Travellers (1854) - draft
 
 andy
