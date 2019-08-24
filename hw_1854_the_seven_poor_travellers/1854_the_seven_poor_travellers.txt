@@ -19,14 +19,14 @@ seven. This word of explanation is due at
 once, for what says the inscription over the
 quaint old door?
 
-RICHARD WATTS, Esq.
-by his Will, dated 22 Aug. 1579,
-founded this Charity
-for Six poor Travellers,
-who not being ROGUES,or PROCTORS,
-May receive gratis for one Night,
-Lodging, Entertainment,
-and Four-pence each.
+           RICHARD WATTS, Esq.
+    by his Will, dated 22 Aug. 1579,
+          founded this Charity
+         for Six poor Travellers,
+     who not being ROGUES,or PROCTORS,
+     May receive gratis for one Night,
+         Lodging, Entertainment,
+           and Four-pence each.
 
 It was in the ancient little city of Rochester
 in Kent, of all the good days in the year
@@ -1717,7 +1717,7 @@ This "Mr. Daoud," following upon the
 former familiar "Ben," was said without
 sternness, but spoke the creditor awakened
 to his rights. It seemed to say, "Smoke,
-drink, and be merry till your ' accepted payable
+drink, and be merry till your 'accepted payable
 at such a date' comes due; but pay
 then, or I'll sell you up like death."
 
@@ -1924,7 +1924,7 @@ falling over. He shut his eyes from time to
 time, as though he were dizzy. He began to
 fancy that he was in the sky.
 
-"There is Sky Fair, Mr. Virlaz! "Ben-
+"There is Sky Fair, Mr. Virlaz!" Ben-
 Daoud suddenly said, pointing a-head with
 his whip.
 
@@ -2129,7 +2129,7 @@ on the red-headed janitor.
 old gentleman," he said: "I daren't open the
 gate for my life; but there's a window in my
 lodge; and if you choose to take your chance
-of jumping out of it (it is'nt far to fall) you
+of jumping out of it (it isn't far to fall) you
 can."
 
 Acon-Virlaz, uttering a confused medley
@@ -2159,7 +2159,7 @@ Daoud with a lighted cigar in his mouth
 and the reins in his hand, just ready to
 start.
 
-"Hold hard! "screamed Acon-Virlaz.
+"Hold hard!" screamed Acon-Virlaz.
 "Hold hard! Ben, my dear friend, my old
 friend: hold hard, and take me in!"
 
@@ -2235,7 +2235,7 @@ When all with torches flaring bright
 The crowding villagers would stand,
 A patient, eager, waiting band,
 Until the signal ran like flame
-"They come!"and, slackening speed, they came.
+"They come!" and, slackening speed, they came.
 Outriders first, in pomp and state,
 Pranced on their horses thro' the gate;
 Then the four steeds as black as night,
@@ -2321,7 +2321,7 @@ Amid the nobles of the land.
 Then all would wonder, could it be
 That one so lowly born as she,
 Raised to such height of bliss, should seem
-Still living in some weary dream ?
+Still living in some weary dream?
 'Tis true she bore with calmest grace
 The honours of her lofty place,
 Yet never smiled, in peace or joy,
@@ -2445,7 +2445,7 @@ Not one of all the Earl's proud line
 In beauty ever matched with thine.
 And, 'tis by thy dark locks thou art
 Bound even faster round my heart,
-And made more wholly mine! "
+And made more wholly mine!"
 And then she paused, and weeping said,
 "You are like one who now is dead--
 Who sleeps in a far distant grave.
@@ -2454,7 +2454,7 @@ As noble and as good as he,
 As gentle and as brave!"
 Then in my childish way I cried,
 
-' The one you tell me of who died,
+"The one you tell me of who died,
 Was he as noble as the Earl?"
 I see her red lips scornful curl,
 I feel her hold my hand again
@@ -2511,7 +2511,7 @@ She was no Countess like to you,
 Nor wore such sparkling stones of flame."
 O the wild look of fear and dread!
 The cry she gave of bitter woe!
-Ioften wonder what I said
+I often wonder what I said
 To make her moan and shudder so.
 
 Through the long night she tended me
@@ -2734,7 +2734,7 @@ and he took the proper business course.
 He sent the governess away with a first-
 rate character and a spanking present; and
 then he looked about him to get something
-for Mr, Frank to do. While he was
+for Mr. Frank to do. While he was
 looking about, Mr. Frank bolted to London
 after the governess, who had nobody alive
 belonging to her to go to but an aunt--her
@@ -2839,7 +2839,7 @@ I fixed him with my eye for about three
 seconds, as he sat groaning and wriggling in
 his chair. When I'd done fixing him, I gave
 another rap with my paper-knife on to the
-table to startle him up a bit.  Then I
+table to startle him up a bit. Then I
 went on.
 
 "From what you have been stating up to
@@ -2847,12 +2847,12 @@ the present time," says I, "I gather that
 you are in a scrape which is likely to interfere
 seriously with your marriage on Wednesday?"
 (He nodded, and I cut in again
-before he could say a word).  The scrape
+before he could say a word). "The scrape
 affects the young lady you are about to marry,
 and goes back to the period of a certain
 transaction in which her late father was
 engaged some years ago?" (He nods, and I
-cut in oncemore.) "There is a party who turned
+cut in once more.) "There is a party who turned
 up after seeing the announcement of your
 marriage in the paper, who is cognisant of
 what he oughtn't to know, and who is prepared
@@ -2918,7 +2918,7 @@ to a joke.
 had a signature to write; and, by the most
 natural mistake in the world, he wrote
 another gentleman's name instead of his own
---eh ? "
+--eh?"
 
 "It was to a bill," says Mr. Frank, looking
 very crestfallen, instead of taking the joke.
@@ -2928,7 +2928,7 @@ it. But he was resolved, if he sold off everything,
 to get the amount and repay--"
 
 "Of course!" says I. "Drop that. The
-forgery was discovered. When ? "
+forgery was discovered. When?"
 
 "Before even the first attempt was made
 to negotiate the bill. He had done the
@@ -2988,10 +2988,10 @@ avowal or confession of the forgery?"
 
 "Of course it did," says he. "Could the
 writer express his contrition properly without
-making some such confession ? "
+making some such confession?"
 
 "Quite easy, if he had been a lawyer,"
-saye I. "But never mind that; "I'm going
+saye I. "But never mind that; I'm going
 to make a guess,--a desperate guess, mind.
 Should I be altogether in error," says I,
 "if I thought that this letter had been stolen;
@@ -3003,7 +3003,7 @@ be the fingers which took it?" says I.
 understand," cried Mr. Frank.
 
 "How did he communicate that interesting
-fact to you ? "
+fact to you?"
 
 "He has not ventured into my presence.
 The scoundrel actually had the audacity--"
@@ -3031,6 +3031,7 @@ humorous and short, that I remember every
 word of it at this distance of time. It began
 in this way:
 
+
 "To Francis Gatliffe, Esq., Jun.--Sir,--I have an
 extremely curious autograph letter to sell. The price
 is a Five hundred pound note. The young lady to
@@ -3042,8 +3043,10 @@ on your highly respected father with the original
 curiosity, on the afternoon of Tuesday next. Having
 come down here on family business, I have put up at
 the family hotel--being to be heard of at the Gatliffe
-Arms. Your very obedient servant,
-"ALFRED DAVAGER."
+Arms.
+                  Your very obedient servant,
+                              "ALFRED DAVAGER."
+
 
 "A clever fellow, that," says I, putting the
 letter into my private drawer.
@@ -3107,8 +3110,8 @@ ticklish business, and you are ready, as I
 know, without asking, to remunerate me for
 all and any of my services at the usual pro-
 fessional rate. Now, I've made up my mind
-to act boldly desperately, if you like on
-the hit or miss win-all-or-lose-all principle
+to act boldly--desperately, if you like--on
+the hit or miss--win-all-or-lose-all principle--
 in dealing with this matter. Here is my pro-
 posal. I'm going to try if I can't do Mr.
 Davager cut of his letter. If I don't succeed
@@ -3117,30 +3120,27 @@ the money, and I charge you nothing for pro-
 fessional services. If I do succeed, I hand you
 the letter instead of Mr. Davager; and you
 give me the money, instead of giving it to
-him. It's a precious risk for me , but I'm
+him. It's a precious risk for me, but I'm
 ready to run it. You must pay your five
 hundred any way. What do you say to my
-plan? Is it, Yes Mr. Frank or, No?"
-
+plan? Is it, Yes--Mr. Frank--or, No?"
 
 "Hang your questions!" cries Mr. Frank,
 jumping up; "you know it's Yes, ten thousand
 times over. Only you earn the money
-and"
-
+and----"
 
 "And you will be too glad to give it to me.
 Very good. Now go home. Comfort the
-young lady don't let Mr. Davager so much
-as set eyes on you keep quiet leave every-
-thing to me and feel as certain as you
+young lady--don't let Mr. Davager so much
+as set eyes on you--keep quiet--leave everything
+to me--and feel as certain as you
 please that all the letters in the world can't
 stop your being married on Wednesday."
 With these words I hustled him off out
 of the office; for I wanted to be left alone
 to make my mind up about what I should
 do.
-
 
 The first thing, of course, was to have a
 look at the enemy. I wrote to Mr. Davager,
@@ -3150,20 +3150,17 @@ himself and "another party" (no names!) on
 friendly terms; and begging him to call on
 me at his earliest convenience. At the very
 beginning of the case, Mr. Davager bothered
-me. His answer was that it would not be con-
-venient to him to call till between six and seven
-in the evening. In this way, you see, he con-
-
-
-trived to make me lose several precious hours,
-at a time when minutes almost were of import-
-ance. I had nothing for it, but to be patient,
+me. His answer was that it would not be convenient
+to him to call till between six and seven
+in the evening. In this way, you see, he contrived
+to make me lose several precious hours,
+at a time when minutes almost were of importance.
+I had nothing for it, but to be patient,
 and to give certain instructions, before Mr.
 Davager came, to my boy Tom.
 
-
-There was never such a sharp boy of four-
-teen before, and there never will be again, as
+There was never such a sharp boy of fourteen
+before, and there never will be again, as
 my boy, Tom. A spy to look after Mr. Davager
 was, of course, the first requisite in a case of
 this kind; and Tom was the smallest,
@@ -3175,13 +3172,12 @@ he was not to show at all, when Mr. Davager
 came; and that he was to wait to hear me
 ring the bell, when Mr. Davager left. If I
 rang twice, he was to show the gentle-
-man out. If I rang  he was to keep
+man out. If I rang he was to keep
 out of the way and follow the gentleman
 wherever he went, till he got back to the inn.
 Those were the only preparations I could
 make to begin with; being obliged to wait,
 and let myself be guided by what turned up.
-
 
 About a quarter to seven my gentleman
 came. In the profession of the law we get
@@ -3195,13 +3191,12 @@ head, fat in the stomach, hoarse in the voice,
 and weak in the legs. Both his eyes were
 bloodshot, and one was fixed in his head. He
 smelt of spirits, and carried a toothpick in his
-mouth. "How are you 1 I've just done din-
-ner," says he and he lights a cigar, sits down
+mouth. "How are you? I've just done dinner,"
+says he and he lights a cigar, sits down
 with his legs crossed, and winks at me.
 
-
 I tried at first to take the measure of him
-in a wheedling, confidential Avay; but it was
+in a wheedling, confidential way; but it was
 no good. I asked him in a facetious smiling
 manner, how he had got hold of the letter.
 He only told me in answer that he had been
@@ -3220,16 +3215,16 @@ him.
 I began, "let me put a case, Mr. Davager.
 The pull you have on Mr. Francis Gatliffe
 is, that you can hinder his marriage on Wed-
-nesday. Now, suppose I have got a magis-
-trate's warrant to apprehend you in my
-pocket I Suppose I have a constable to
+nesday. Now, suppose I have got a magistrate's
+warrant to apprehend you in my
+pocket? Suppose I have a constable to
 execute it in the next room? Suppose I bring
-you up to-morrow the day before the mar-
-riage charge you only generally with an
+you up to-morrow--the day before the marriage--
+charge you only generally with an
 attempt to extort money, and apply for a
 day's remand to complete the case '? Suppose,
 as a suspicious stranger, you can't get bail in
-this town 1 Suppose"
+this town? Suppose--"
 
 "Stop a bit," says Mr. Davager; "Suppose
 I should not be the greenest fool that
@@ -3306,7 +3301,7 @@ tired, at the tart-shop opposite--eating as
 much us he pleased, on the understanding
 that he crammed all the time with his eye
 on the window. If Mr. Davager went out,
-or Mr.Davager's friend called on him, Tom was
+or Mr. Davager's friend called on him, Tom was
 to let me know. He was also to take a little
 note from me to the head chambermaid--an
 old friend of mine--asking her to step over
@@ -3519,7 +3514,7 @@ I hadn't left myself, after all my searching
 and thinking, even so much as the vestige of
 another guide to go by. "5 along"--where
 could I count five along the room, in any part
-of it ?
+of it?
 
 Not on the paper. The pattern there was
 pillars of trellis-work and flowers, enclosing
@@ -3583,7 +3578,7 @@ Just as I laid hold of the thread gently, I
 heard a footstep outside the door.
 
 It was only the head chambermaid.
-"Havn't you done yet ?" she whispers.
+"Havn't you done yet?" she whispers.
 
 "Give me two minutes," says I; "and
 don't let anybody come near the door--whatever
@@ -3593,11 +3588,11 @@ again by coming near the door."
 I took a little pull at the thread, and heard
 something rustle. I took a longer pull, and
 out came a piece of paper, rolled up tight like
-| those candle-lighters that the ladies make. I
+those candle-lighters that the ladies make. I
 unrolled it--and, by George! gentlemen all,
 there was the letter!
 
-The original letter !--I knew it by the
+The original letter!--I knew it by the
 colour of the ink. The letter that was worth
 five hundred pound to me! It was all I
 could do to keep myself at first from throwing
@@ -3679,7 +3674,7 @@ hearers of a statement.
 
 THE FIFTH POOR TRAVELLER.
 
-Do you know--the journeyman watchmaker
+DO you know--the journeyman watchmaker
 from Geneva began--do you know
 those long straight lines of French country,
 over which I have often walked? Do you
@@ -3788,7 +3783,7 @@ the walls, supported beneath by crazy uprights,
 like a poor relation clinging to a genteel kinsman
 nearly as poor. The walls had been plastered
 once, but the plaster had peeled off in
-places, and  mud and wattles peeped through
+places, and mud and wattles peeped through
 like a beggar's bare knee through his
 torn trowsers. An anomalous wooden ruin,
 that might have been a barrel in the
@@ -3910,7 +3905,7 @@ distance to the next. I found that the little
 man's forte was interrogatory, and let him
 have his swing that way.
 
-"You come from a long way ?" he asked.
+"You come from a long way?" he asked.
 
 
 
@@ -3920,16 +3915,16 @@ beyond Brest and L'Orient."
 
  
 
-"But from a town, always ? You come
+"But from a town, always? You come
 from a town where there are a great many
-people, and where they make wheels ? "
+people, and where they make wheels?"
 
 I answered that I came from a large
 town, and that I had no doubt, though
 I had no personal experience in the matter,
 that wheels were made there.
 
-"And cannot you make wheels ? "
+"And cannot you make wheels?"
 
 I told him I was not a wheelwright ; I
 only made the wheels of watches, which
@@ -3947,7 +3942,7 @@ so I puffed away at my pipe, and listened.
 
 "By the way," my small but elderly companion
 remarked, "would you have any
-objection to my bringing my sister to you ? "
+objection to my bringing my sister to you?"
 
 The more I saw of so original a family
 the better, I thought ; so I told him I should
@@ -4076,7 +4071,7 @@ something was.
 "My sister and I," said this small person,
 "hope that you will not be offended with us,
 but would you have any objection to show
-us your tongue ? "
+us your tongue?"
 
 This was, emphatically, a startler. Could
 the little man be a physician as well as a
@@ -4379,7 +4374,7 @@ me from him!
 
 At last she said to me in a low voice:
 "Mary, this is madness!--it is almost sinful!
-Can you not see--can you not hear ? "And
+Can you not see--can you not hear? "And
 then she stopped and would say no more,
 though I urged her to tell me what she
 meant. For this terrible mystery began to
@@ -4437,7 +4432,7 @@ obtained, when he married? To us, he
 said only that he had so much a year--a
 thousand a year; and he would say no
 more. But, has he not been more explicit
-with you ? "
+with you?"
 
 "No," I answered, considering; for, indeed,
 I had never thought of this. I had trusted
@@ -4861,7 +4856,7 @@ I saw it all now. I turned my head, to see
 my husband standing a few paces behind me.
 Good Heaven! I have often thought, was
 that man the same man I had loved so long
-and fondly ?
+and fondly?
 
 The strength of horror, not of courage,
 upheld me. I knew he meant to kill me, but
