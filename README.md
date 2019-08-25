@@ -22,6 +22,13 @@ Everything got converted to lowest common denomiator .txt format, then marked up
 
 next up, Household Words, 1851-1858...
 
-- The Seven Poor Travellers (1854) - draft
+- A Round of Stories by the Christmas Fire (1851)
+- A Round of Stories (1852)
+- Another Round of Stories by the Christmas Fire (1853)
+- The Seven Poor Travellers (1854) - corrected
+- The Holly Tree Inn (1855)
+- The Wreck of the golden mary (1856)
+- The Perils of Certain English Prisoners (1857)
+- A House to Let (1858)
 
 andy
