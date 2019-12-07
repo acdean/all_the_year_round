@@ -1,6 +1,8 @@
 # all_the_year_round
 Text and epub versions of All The Year Round's Christmas Editions:
 
+- What Christmas Is As We Get Older (1851) - corrected
+- A Round of Stories by the Christmas Fire (1852) - draft
 - A Haunted House (1859) - corrected
 - A Message From The Sea (1860) - complete
 - Tom Tiddler's Ground (1861) - complete
@@ -22,8 +24,6 @@ Everything got converted to lowest common denomiator .txt format, then marked up
 
 next up, Household Words, 1851-1858...
 
-- A Round of Stories by the Christmas Fire (1851)
-- A Round of Stories (1852)
 - Another Round of Stories by the Christmas Fire (1853)
 - The Seven Poor Travellers (1854) - corrected
 - The Holly Tree Inn (1855)

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="800"
+   width="600">
+  <g style="text-align:center;text-anchor:middle;fill:#000000;font-weight:normal;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:'Noto Serif';font-style:normal;stroke-width:0.5;stroke-miterlimit:4" xml:space="preserve">
+    <g style="font-size:50px">
+        <text x="300" y="120"><tspan>A ROUND OF STORIES</tspan></text>
+    </g>
+    <g style="font-size:40px">
+        <text x="300" y="180"><tspan>BY THE CHRISTMAS FIRE.</tspan></text>
+    </g>
+
+    <line x1="200" y1="230" x2="400" y2="230" style="stroke-width:3"/>
+
+    <text x="300" y="280" style="font-size:25px"><tspan>THE EXTRA CHRISTMAS NUMBER OF</tspan></text>
+    <text x="300" y="320" style="font-size:40px;font-weight:bold"><tspan>HOUSEHOLD WORDS.</tspan></text>
+
+    <g style="font-family:'Noto Sans';font-size:38px;font-weight:bold">
+        <text x="300" y="420"><tspan>CONDUCTED BY</tspan></text>
+        <text x="300" y="460"><tspan>CHARLES DICKENS.</tspan></text>
+    </g>
+
+    <text x="300" y="540" style="font-size:25px"><tspan>CONTAINING THE AMOUNT OF</tspan></text>
+    <text x="300" y="575" style="font-size:30px"><tspan>ONE REGULAR NUMBER AND A HALF</tspan></text>
+
+    <line x1="200" y1="615" x2="400" y2="615" style="stroke-width:3"/>
+
+    <text x="300" y="680" style="font-size:25px;font-weight:bold"><tspan>CHRISTMAS, 1852.</tspan></text>
+    <text x="300" y="710" style="font-size:15px;font-weight:bold"><tspan>Price</tspan></text>
+    <text x="300" y="740" style="font-size:25px;font-weight:bold"><tspan>3d.</tspan></text>
+  </g>
+</svg>
