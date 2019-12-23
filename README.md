@@ -13,11 +13,11 @@ Text and epub versions of All The Year Round's Christmas Editions:
 
 And also Household Words 1851 - 1858
 
-- What Christmas Is As We Get Older (1851) - corrected
-- A Round of Stories by the Christmas Fire (1852) - draft
-- Another Round of Stories by the Christmas Fire (1853) - soon
+- What Christmas Is As We Get Older (1851) - complete
+- A Round of Stories by the Christmas Fire (1852) - corrected
+- Another Round of Stories by the Christmas Fire (1853) - corrected
 - The Seven Poor Travellers (1854) - corrected
-- The Holly Tree Inn (1855) - soon
+- The Holly Tree Inn (1855) - draft
 - The Wreck of the golden mary (1856) - soon
 - The Perils of Certain English Prisoners (1857) - soon
 - A House to Let (1858) - soon
