@@ -1,7 +1,7 @@
 # all_the_year_round
 Text and epub versions of All The Year Round's Christmas Editions:
 
-- A Haunted House (1859) - corrected
+- A Haunted House (1859) - complete
 - A Message From The Sea (1860) - complete
 - Tom Tiddler's Ground (1861) - complete
 - Somebody's Luggage (1862) - corrected
