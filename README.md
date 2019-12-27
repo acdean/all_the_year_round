@@ -17,7 +17,7 @@ And also Household Words 1851 - 1858
 - A Round of Stories by the Christmas Fire (1852) - corrected
 - Another Round of Stories by the Christmas Fire (1853) - complete
 - The Seven Poor Travellers (1854) - corrected
-- The Holly Tree Inn (1855) - draft
+- The Holly Tree Inn (1855) - corrected
 - The Wreck of the Golden Mary (1856) - draft
 - The Perils of Certain English Prisoners (1857) - soon
 - A House to Let (1858) - soon
