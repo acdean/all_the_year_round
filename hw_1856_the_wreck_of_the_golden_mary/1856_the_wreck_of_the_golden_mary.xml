@@ -21,9 +21,9 @@
 </prefix>
 
 <chapter>
-<title>THE WRECK [The Captain's Account]</title>
+<title>THE WRECK <br/>[The Captain's Account]</title>
 <p>
-I WAS apprenticed to the Sea when I was 
+I <sc>WAS</sc> apprenticed to the Sea when I was 
 twelve years old, and I have encountered a 
 great deal of rough weather, both literal and 
 metaphorical. It has always been my opinion 
@@ -180,7 +180,7 @@ Notwithstanding my being, as I have
 mentioned, quite ready for a voyage, still I had 
 some doubts of this voyage. Of course I 
 knew, without being told, that there were 
-peculiar difficulties and dangers in it, a Iong 
+peculiar difficulties and dangers in it, a long 
 way over and above those which attend all 
 voyages. It must not be supposed that I was 
 afraid to face them; but, in my opinion a 
@@ -1441,12 +1441,12 @@ sleep.
 </chapter>
 
 <chapter>
-<title>THE WRECK [John Steadiman's Account]</title>
+<title>THE WRECK <br/>[John Steadiman's Account]</title>
 <p>
-All that follows, was written by John Steadiman, Chief Mate: 
+<i>All that follows, was written by John Steadiman, Chief Mate:</i>
 </p>
 <p>
-ON the twenty-sixth day after the foundering 
+O<sc>N</sc> the twenty-sixth day after the foundering 
 of the Golden Mary at sea, I, John Steadiman, 
 was sitting in my place in the stern-
 sheets of the Surf-boat, with just sense 
@@ -1840,10 +1840,10 @@ did not hear, from the remembrance of others.
 </chapter>
 
 <chapter>
-<title>THE BEGUILEMENT IN THE BOATS [The Armourer's Story].</title>
+<title>THE BEGUILEMENT IN THE BOATS <br/>[The Armourer's Story]</title>
 <p>
-I come from Ashbrooke. (It was 
-the Armourer who spun this yarn.) Dear 
+I <sc>COME FROM</sc> A<sc>SHBROOKE</sc>. <i>(It was 
+the Armourer who spun this yarn.)</i> Dear 
 me! how many years back is that? Twenty 
 years ago it must be now--long before I ever 
 thought of going to sea--before I let 
@@ -2694,10 +2694,10 @@ near that part of the river walk after dark.
 </chapter>
 
 <chapter>
-<title>THE BEGUILEMENT IN THE BOATS [Poor Dick's Story]</title>
+<title>THE BEGUILEMENT IN THE BOATS <br/>[Poor Dick's Story]</title>
 <p>
-It was the fifth evening towards 
-twilight, when poor Dick began to sing--in 
+I<sc>T WAS THE FIFTH EVENING TOWARDS 
+TWILIGHT</sc>, when poor Dick began to sing--in 
 my boat, the Surf-Boat. At first nobody took 
 any notice of him, and indeed he seemed 
 to be singing more to himself than to any one 
@@ -3170,36 +3170,36 @@ Some of us might like to hear it.”
 as if my mother was here listening to me,” 
 said Dick, and he repeated: 
 </p>
-<p>
-“Hear my prayer, O! Heavenly Father, 
-Ere I lay me down to sleep; 
-Bid thy Angels, pure and holy, 
-Round my bed their vigil keep. 
-</p>
-<p>
-“My sins are heavy, but Thy mercy 
-Far outweighs them every one; 
-Down before Thy Cross I cast them, 
-Trusting in Thy help alone. 
-</p>
-<p>
-“Keep me through this night of peril 
-Underneath its boundless shade; 
-Take me to Thy rest, I pray Thee, 
-When my pilgrimage is made. 
-</p>
-<p>
-“None shall measure out Thy patience 
-By the span of human thought; 
-None shall bound the tender mercies 
-Which Thy Holy Son has bought. 
-</p>
-<p>
-“Pardon all my past transgressions, 
-Give me strength for days to come; 
-Guide and guard me with Thy blessing 
-Till Thy Angels bid me home.” 
-</p>
+<poem>
+<poem1>“Hear my prayer, O! Heavenly Father,</poem1>
+<poem2>Ere I lay me down to sleep;</poem2>
+<poem1>Bid thy Angels, pure and holy,</poem1>
+<poem2>Round my bed their vigil keep.</poem2>
+</poem>
+<poem>
+<poem1>“My sins are heavy, but Thy mercy</poem1>
+<poem2>Far outweighs them every one;</poem2>
+<poem1>Down before Thy Cross I cast them,</poem1>
+<poem2>Trusting in Thy help alone.</poem2>
+</poem>
+<poem>
+<poem1>“Keep me through this night of peril</poem1>
+<poem2>Underneath its boundless shade;</poem2>
+<poem1>Take me to Thy rest, I pray Thee,</poem1>
+<poem2>When my pilgrimage is made.</poem2>
+</poem>
+<poem>
+<poem1>“None shall measure out Thy patience</poem1>
+<poem2>By the span of human thought;</poem2>
+<poem1>None shall bound the tender mercies</poem1>
+<poem2>Which Thy Holy Son has bought.</poem2>
+</poem>
+<poem>
+<poem1>“Pardon all my past transgressions,</poem1>
+<poem2>Give me strength for days to come;</poem2>
+<poem1>Guide and guard me with Thy blessing</poem1>
+<poem2>Till Thy Angels bid me home.”</poem2>
+</poem>
 <p>
 After awhile Dick drew his coat up over 
 his head and lay down to sleep. 
@@ -3208,18 +3208,18 @@ his head and lay down to sleep.
 “Well, poor Dick!” thought I, “it is surely 
 a blessed thing for you that--
 </p>
-<p>
-“None shall measure out God’s patience, 
-By the span of human thought; 
-None shall bound the tender mercies 
-Which His Holy Son has bought.” 
-</p>
+<poem>
+<poem1>“None shall measure out God’s patience,</poem1>
+<poem2>By the span of human thought;</poem2>
+<poem1>None shall bound the tender mercies</poem1>
+<poem2>Which His Holy Son has bought.”</poem2>
+</poem>
 </chapter>
 
 <chapter>
-<title>THE BEGUILEMENT IN THE BOATS [The Supercargo's Story]</title>
+<title>THE BEGUILEMENT IN THE BOATS <br/>[The Supercargo's Story]</title>
 <p>
-A quiet middle-aged gentleman passenger, 
+A <sc>QUIET MIDDLE-AGED GENTLEMAN PASSENGER</sc>, 
 in the Long-boat, who was going to 
 establish a Store out there, and had been our 
 supercargo besides, told what follows. 
@@ -3818,15 +3818,15 @@ Fagel, yo!” quite clear and distinct.
 </chapter>
 
 <chapter>
-<title>THE BEGUILEMENT IN THE BOATS [The Old Sailor's Story]</title>
+<title>THE BEGUILEMENT IN THE BOATS <br/>[The Old Sailor's Story]</title>
 <p>
-An old Seaman in the Surf-boat 
+A<sc>N OLD</sc> S<sc>EAMAN IN THE</sc> S<sc>URF-BOAT</sc> 
 sang this ballad, as his story, to a curious 
 sort of tuneful no-tune, which none of the 
 rest could remember afterwards. 
 </p>
 <poem>
-<poem1>I HAVE seen a fiercer tempest,</poem1>
+<poem1>I <sc>HAVE</sc> seen a fiercer tempest,</poem1>
 <poem2>Known a louder whirlwind blow.</poem2>
 <poem1>I was wreck’d off red Algiers,</poem1>
 <poem2>Six-and-thirty years ago.</poem2>
@@ -4108,10 +4108,10 @@ rest could remember afterwards.
 </chapter>
 
 <chapter>
-<title>THE BEGUILEMENT IN THE BOATS [The Scotch Boy's Story]</title>
+<title>THE BEGUILEMENT IN THE BOATS <br/>[The Scotch Boy's Story]</title>
 <p>
-While the foregoing story was being 
-told, I had kept my eye fixed upon little Willy 
+W<sc>HILE THE FOREGOING STORY WAS BEING 
+TOLD</sc>, I had kept my eye fixed upon little Willy 
 Lindsey, a young Scotch boy (one of the two 
 apprentices), who had been recommended to 
 Captain Ravender’s care by a friend in 
@@ -4502,7 +4502,7 @@ night, closely wrapped in my cloak.
 <chapter>
 <title>THE DELIVERANCE</title>
 <p>
-WHEN the sun rose on the twenty-seventh 
+W<sc>HEN</sc> the sun rose on the twenty-seventh 
 day of our calamity, the first question that I 
 secretly asked myself was, How many more 
 mornings will the stoutest of us live to see? 
@@ -5294,6 +5294,7 @@ cries died away in tears and sobbing.
 In another half hour we, too, were alongside 
 of the brigantine. 
 </p>
+<break/>
 <p>
 From this point, I recollect nothing very 
 distinctly. I remember faintly many loud 
