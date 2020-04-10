@@ -19,8 +19,8 @@ And also Household Words 1851 - 1858
 - The Seven Poor Travellers (1854) - corrected
 - The Holly Tree Inn (1855) - corrected
 - The Wreck of the Golden Mary (1856) - corrected
-- The Perils of Certain English Prisoners (1857) - draft
-- A House to Let (1858) - draft
+- The Perils of Certain English Prisoners (1857) - corrected
+- A House to Let (1858) - corrected
 
 ("draft" generally means that i've done an initial conversion to epub but haven't read it to check.
 "corrected" means i've read it and done all the corrections but haven't checked the paragraphs or italics)
