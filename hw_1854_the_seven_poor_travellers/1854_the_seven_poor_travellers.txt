@@ -97,7 +97,7 @@ the entry.
 "This," said the matronly presence, ushering
 me into a low room on the right, "is
 where the Travellers sit by the fire, and cook
-What bits of suppers they buy with their
+what bits of suppers they buy with their
 fourpences."
 
 "Oh! Then they have no Entertainment?"
@@ -688,7 +688,7 @@ Have you a mother?"
 "were sounded from mouth to mouth through
 the whole regiment, through the whole army,
 through the whole country, you would wish
-she had lived, to say with pride arnd joy,
+she had lived, to say with pride and joy,
 'He is my son!'"
 
 "Spare me, sir;" said Doubledick. "She
@@ -3221,7 +3221,7 @@ execute it in the next room? Suppose I bring
 you up to-morrow--the day before the marriage--
 charge you only generally with an
 attempt to extort money, and apply for a
-day's remand to complete the case '? Suppose,
+day's remand to complete the case? Suppose,
 as a suspicious stranger, you can't get bail in
 this town? Suppose--"
 
@@ -4174,7 +4174,7 @@ innocent as I am sure those little children
 were.
 
 
-THE SIXTH POOR TRAVELLER,
+THE SIXTH POOR TRAVELLER.
 
 WAS the little widow. She had been sitting
 by herself in the darkest corner of the room
